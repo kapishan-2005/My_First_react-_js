@@ -16,7 +16,6 @@ import Img8 from '../images/left-infos.jpg'
 function Home() {
     return (
         <>
-  
         <div className="page-heading">
     <div className="container">
       <div className="row">
